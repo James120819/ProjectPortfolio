@@ -12,3 +12,13 @@ This is a C++ program that formulates investment banking and is built with OOP
 # 5. This program helped me have a better understanding of organizing different classes to work on seperate parts of the system and including in-line comments to have descriptive code files that are readable. I will be able to apply these practices into creating more advanced software projects, learning more enhanced ways of advacing those skills, and using them to help build functional programs externally. 
 
 # 6. I used in-line comments to help identify what was being done throughout the program. I also had used specified names to help maintain the readability of my code. This helped my code remain clean and readable. 
+
+*********************************************************************************************************************
+
+# Contact Service Java Project 
+
+# 1. To ensure my program is functional and secure, I would implement validation input practices along with vulnerability assesments. Continuous testing also would help allowing my program to be more functional and secure. 
+
+# 2. It's important to always consider how the way the consumer will interact with the product. User needs would be met by validating and putting their stories at the highest level of priority along with keeping communication consistent. I believe its important to always keep communication at the highest standards along with making sure user needs are met. 
+
+# 3. My software development approach involves analyzing user needs and then formulating a blueprint plan before implementing the design phase of the software product. It's important to always remain consistent throughout the process. 
